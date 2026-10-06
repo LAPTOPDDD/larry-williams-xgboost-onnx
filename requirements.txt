@@ -1,0 +1,10 @@
+onnx==1.15.0
+onnxconverter-common==1.13.0
+skl2onnx==1.15.0
+onnxmltools==1.11.2
+xgboost
+joblib
+numpy
+ta
+scikit-learn
+pandas
